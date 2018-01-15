@@ -1,0 +1,12 @@
+http://www.codemag.com/article/1304031
+https://stackoverflow.com/questions/33562034/develop-wpf-app-like-windows-10-setting-app
+https://github.com/firstfloorsoftware/mui
+http://archive.msdn.microsoft.com/WPFShell
+https://marketplace.visualstudio.com/items?itemName=KoenZwikstra.ModernUIforWPFTemplates
+https://rehansaeed.com/wpf-metro-part1-modern-ui-for-wpf/
+https://caliburnmicro.com/documentation/
+http://squashingoranges.com/blog/2013/09/22/building-a-wpf-application-with-caliburn-micro/
+http://www.sroboto.com/2017/07/create-wpf-caliburnmicro-application.html
+https://www.codeproject.com/Articles/778052/Data-Binding-using-Caliburn-Micro-for-Beginners
+http://www.mindscapehq.com/blog/index.php/2012/01/12/caliburn-micro-part-1-getting-started/
+https://www.mindscapehq.com/blog/index.php/2012/01/09/wpf-elements-5-dashboard-sample/
