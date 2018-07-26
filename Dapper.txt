@@ -1,0 +1,7 @@
+https://www.c-sharpcorner.com/article/dapper-and-repository-pattern-in-web-api/
+https://codereview.stackexchange.com/questions/136751/repository-pattern-with-dapper-unity
+http://www.bradoncode.com/blog/2012/12/creating-data-repository-using-dapper.html
+https://code.msdn.microsoft.com/Dapper-and-Repository-68710cd7
+https://www.codeproject.com/Articles/1186566/Dapper-Generic-Repository
+https://github.com/bbraithwaite/SmsQuiz
+https://github.com/bbraithwaite/SmsQuiz/blob/bd4103a8c9a289e39d0807ea9bcd990f1c020df9/src/BB.SmsQuiz.Repository.Dapper/Repository.cs
